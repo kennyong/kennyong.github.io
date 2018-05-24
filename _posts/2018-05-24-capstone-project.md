@@ -31,12 +31,6 @@ Can we make money from tading cryptocurrencies with Time Series and Prophet?
 Source of Data: https//poloniex.com
 
 <center>
-        <img src="/images/Image/"Cryptocurrencies Price (2-hours) without Normalization.png" ALT="Crypto Price">
-</center>
-
-
-
-<center>
     <div class="photoset-grid-custom" data-layout="213">
         <img src="/images/Image/"Cryptocurrencies Price (2-hours) without Normalization.png" ALT="Crypto Price">
     </div>
@@ -44,7 +38,7 @@ Source of Data: https//poloniex.com
 
 
 
-
+![crypto-price-image](/images/Image/Cryptocurrencies Price (2-hours) without Normalization.png){:class="img-responsive"}
 
 
 ### Ordered Lists
