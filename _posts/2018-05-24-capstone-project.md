@@ -29,7 +29,11 @@ Can we make money from tading cryptocurrencies with Time Series and Prophet?
 #### Firstly, some basic EDA on the various cryptocurrencies
 
 Source of Data: https//poloniex.com
-
+<center>
+    <div class="photoset-grid-custom" data-layout="213">
+        <img src="/images/image/Cryptocurrencies Price (2-hours) without Normalization.png">
+    </div>
+</center>
 
 
 ### Heading 3
