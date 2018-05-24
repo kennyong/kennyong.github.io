@@ -1,16 +1,36 @@
 ---
 layout: post
 categories: posts
-title: Sample Post
-tags: [sample post]
-date-string: NOVEMBER 20, 2016
+title: Trading Cryptocurrencies with Time Series and Prophet
+tags: [#crypto]
+date-string: May 24, 2018
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Disclaimer
+The following content is intended for educational purpose only.
+Please check with your authorised broker for advice.
 
-# Heading 1
+# Trading Cryptocurrencies with Time Series and Prophet
 
-## Heading 2
+### Problem Statement
+
+Can we make money from tading cryptocurrencies with Time Series and Prophet?
+
+### Success Metrics
+
+* Quickly predict trends
+* Predict possible entry price and exit price
+
+### Battle Of The Cryptos With Two Trading Strategies
+
+* To apply a "Hedging Strategy" (for risk adverse investors), using Correlation.
+* To apply a "Buy Low Sell High" strategy using Prophet
+
+#### Firstly, some basic EDA on the various cryptocurrencies
+
+Source of Data: https//poloniex.com
+
+
 
 ### Heading 3
 
