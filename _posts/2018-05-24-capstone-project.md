@@ -37,12 +37,24 @@ Can we make money from tading cryptocurrencies with Time Series and Prophet?
 * Ethereum  Classic (ETC)
 * Dash (Dash)
 
+### Source of Data: 
+https//poloniex.com
+
 #### Firstly, some basic EDA on the various cryptocurrencies
 
-Source of Data: https//poloniex.com
 ![crypto-price-image](/images/Image/Cryptocurrencies Price (2-hours) without Normalization.png){:class="img-responsive"}
 
-As can be seen, the 
+As can be seen, the various cryptocurrencies are trading at different prices.
+
+#### Normalising Price
+
+We can see the fluctuations of the prices at the same scale after they are normalised, using MinMax Scaler.
+
+![crypto-price-normalised-image](/images/Image/Cryptocurrencies Price (2-hours) after Normalization (white).png){:class="img-responsive"}
+
+
+
+
 
 ### Ordered Lists
 
