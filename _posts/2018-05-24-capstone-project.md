@@ -6,7 +6,7 @@ tags: [#crypto]
 date-string: May 24, 2018
 ---
 
-Disclaimer
+Disclaimer:
 The following content is intended for educational purpose only.
 Please check with your authorised broker for advice.
 
@@ -23,28 +23,23 @@ Can we make money from tading cryptocurrencies with Time Series and Prophet?
 
 ### Battle Of The Cryptos With Two Trading Strategies
 
-* To apply a "Hedging Strategy" (for risk adverse investors), using Correlation.
-* To apply a "Buy Low Sell High" strategy using Prophet
+* To apply a **"Hedging Strategy"** (for risk adverse investors), using Correlation.
+* To apply a **"Buy Low Sell High"** strategy using Prophet
 
 #### Firstly, some basic EDA on the various cryptocurrencies
 
 Source of Data: https//poloniex.com
-<center>
-    <div class="photoset-grid-custom" data-layout="213">
-        <img src="/images/image/Cryptocurrencies Price (2-hours) without Normalization.png">
-    </div>
-</center>
+
+![Crypto Price Image]({{ site.url }}/images/image/Cryptocurrencies Price (2-hours) without Normalization.png)
+{: .image-right}
 
 
-### Heading 3
 
-#### Heading 4
 
-##### Heading 5
 
-###### Heading 6
 
-### Body text
+
+
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
@@ -115,7 +110,3 @@ Make any link standout more when applying the `.btn` class.
 ```
 
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
