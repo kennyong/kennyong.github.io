@@ -26,11 +26,23 @@ Can we make money from tading cryptocurrencies with Time Series and Prophet?
 * To apply a **"Hedging Strategy"** (for risk adverse investors), using Correlation.
 * To apply a **"Buy Low Sell High"** strategy using Prophet
 
+### Cryptocurrencies Used for Comparison
+
+* Bitcoin (BTC)
+* Ethereum (ETH)
+* Bitcoin Cash (BCH)
+* Ripple (XRP)
+* Stella (STRC)
+* Litecoin (LTC)
+* Ethereum  Classic (ETC)
+* Dash (Dash)
+
 #### Firstly, some basic EDA on the various cryptocurrencies
 
 Source of Data: https//poloniex.com
 ![crypto-price-image](/images/Image/Cryptocurrencies Price (2-hours) without Normalization.png){:class="img-responsive"}
 
+As can be seen, the 
 
 ### Ordered Lists
 
