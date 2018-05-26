@@ -75,4 +75,4 @@ From the heatmap, we can see that the correlation of the the cryptos (against ET
 
 My first conclusion is, "Hedging Strategy" is not recommended for cryptocurrencies in general. 
 
-My second conclusion is, instead of diversifying the investment among the various cryptos, we might want to focus only on one which yields the highest return (in another word, it is very high risk).
+My second conclusion is, instead of diversifying the investment among the various cryptos, we might want to focus only on one which yields the highest return (in other words, it is a very high risk investment).
