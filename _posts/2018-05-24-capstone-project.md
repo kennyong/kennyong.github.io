@@ -60,7 +60,7 @@ We can see the fluctuations of the prices at the same scale after they are norma
 From the normalised prices, the prices of the various cryptos seem to be moving in a correlated manner. However, a correlated strategy 
 would not work for a "Hedging Strategy". To prove that the cryptos are indeed correlated, we will use the heatmap.
 
-###### Pointers
+#### Pointers
 
 * Correlation can range between -1 to 1
 * Correlation > 0 indicates that the cryptos used in comparison are positively correlated, and vice versa if correlation < 0.
