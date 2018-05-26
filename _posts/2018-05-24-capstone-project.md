@@ -47,7 +47,7 @@ https//poloniex.com
 
 ![crypto-price-image](/images/Image/Cryptocurrencies Price (2-hours) without Normalization.png){:class="img-responsive"}
 
-As can be seen, the various cryptocurrencies are trading at different prices.
+As can be seen, the various cryptocurrencies are trading at different price range.
 
 #### Normalising Price
 
