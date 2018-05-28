@@ -50,8 +50,7 @@ plt.title('\nPrice of Ethereum before Apr 2018\n')
 plt.tick_params(labelsize=14)
 ```
 
-
-![png](output_3_0.png)
+![crypto-price-image](/images/ta/output_3_0.png){:class="img-responsive"}
 
 
 ## Bollinger Band - Volatility Indicator
@@ -84,8 +83,8 @@ plt.show
 
 
 
+![crypto-price-image](/images/ta/output_5_1.png){:class="img-responsive"}
 
-![png](output_5_1.png)
 
 
 ## Moving Average Convergence Divergence (MACD) - Trend Indicator
@@ -114,8 +113,8 @@ plt.show
 
 
 
+![crypto-price-image](/images/ta/output_7_1.png){:class="img-responsive"}
 
-![png](output_7_1.png)
 
 
 ## Expanding Mean
@@ -139,8 +138,7 @@ plt.legend(loc='upper left')
 plt.tick_params(labelsize=14)
 ```
 
-
-![png](output_9_0.png)
+![crypto-price-image](/images/ta/output_9_0.png){:class="img-responsive"}
 
 
 
@@ -202,10 +200,8 @@ plt.title("Price Predicted by Prophet", fontsize=30)
 plt.show()
 ```
 
-
-![png](output_10_0.png)
-
+![crypto-price-image](/images/ta/output_10_0.png){:class="img-responsive"}
 
 
-![png](output_10_1.png)
+![crypto-price-image](/images/ta/output_10_1.png){:class="img-responsive"}
 
