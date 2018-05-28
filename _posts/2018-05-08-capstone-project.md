@@ -10,7 +10,7 @@ Disclaimer:
 The following content is intended for educational purpose only. Please check with your authorised broker for advice.
 Cryptos speculation is also not advised.
 
-# Trading Cryptocurrencies with Time Series and Prophet
+# Trading Cryptocurrencies with Correlation, Time Series and Prophet
 
 ### Problem Statement
 
