@@ -29,7 +29,7 @@ plt.show
 
 
 
-![png](output_1_1.png)
+![crypto-price-image](output_1_1.png){:class="img-responsive"}
 
 
 
