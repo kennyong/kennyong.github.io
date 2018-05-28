@@ -21,8 +21,8 @@ plt.title('Ethereum Price\n', color='white')
 plt.show
 ```
 
+![crypto-price-image](/images/ta/output_1_1.png){:class="img-responsive"}
 
-![crypto-price-image](output_1_1.png)
 
 
 
