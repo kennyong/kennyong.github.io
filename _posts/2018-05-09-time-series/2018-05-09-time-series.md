@@ -33,8 +33,7 @@ plt.show
     <Figure size 432x288 with 0 Axes>
 
 
-
-![png](output_2_2.png)
+![crypto-price-image](/images/ts/output_2_2.png){:class="img-responsive"}
 
 
 ## Dickey-Fuller test of stationarity
@@ -45,8 +44,7 @@ plt.show
 test_stationarity(data['close'])
 ```
 
-
-![png](output_4_0.png)
+![crypto-price-image](/images/ts/output_4_0.png){:class="img-responsive"}
 
 
     Results of Dickey-Fuller Test:
@@ -70,8 +68,7 @@ data['close_diff'] = data['close'] - data['close'].shift(1)
 test_stationarity(data.close_diff.dropna(inplace=False))
 ```
 
-
-![png](output_6_0.png)
+![crypto-price-image](/images/ts/output_6_0.png){:class="img-responsive"}
 
 
     Results of Dickey-Fuller Test:
@@ -108,8 +105,7 @@ plt.yticks(color='white')
 plt.show()
 ```
 
-
-![png](output_9_0.png)
+![crypto-price-image](/images/ts/output_9_0.png){:class="img-responsive"}
 
 
 
@@ -124,8 +120,7 @@ plt.yticks(color='white')
 plt.show()
 ```
 
-
-![png](output_10_0.png)
+![crypto-price-image](/images/ts/output_10_0.png){:class="img-responsive"}
 
 
 
@@ -269,8 +264,7 @@ plt.yticks(color='white')
 plt.show()
 ```
 
-
-![png](output_16_0.png)
+![crypto-price-image](/images/ts/output_16_0.png){:class="img-responsive"}
 
 
 
@@ -308,8 +302,7 @@ plt.yticks(color='white')
 plt.show()
 ```
 
-
-![png](output_19_0.png)
+![crypto-price-image](/images/ts/output_19_0.png){:class="img-responsive"}
 
 
 ### Checking Mean Squared Error (MSE) for ARIMA
