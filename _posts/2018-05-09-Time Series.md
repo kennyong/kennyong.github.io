@@ -130,11 +130,6 @@ plt.show()
 
 
 ```python
-#Day: 19
-```
-
-
-```python
 pacf(udiff.values)
 ```
 
