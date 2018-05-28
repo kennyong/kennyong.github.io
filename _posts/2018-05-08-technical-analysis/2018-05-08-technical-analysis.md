@@ -192,11 +192,6 @@ plt.legend()
 plt.title("Candlestick Chart for Ethereum", fontsize=30)
 ax.grid(False, color = 'k', alpha = 0.5)
 
-
-m.plot(forecast);
-plt.xlabel("Date", fontsize=12)
-plt.ylabel("Price in USD", fontsize=12)
-plt.title("Price Predicted by Prophet", fontsize=30)
 plt.show()
 ```
 
