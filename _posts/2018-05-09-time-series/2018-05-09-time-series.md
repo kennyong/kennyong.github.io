@@ -23,16 +23,6 @@ plt.show
 ```
 
 
-
-
-    <function matplotlib.pyplot.show(*args, **kw)>
-
-
-
-
-    <Figure size 432x288 with 0 Axes>
-
-
 ![crypto-price-image](/images/ts/output_2_2.png){:class="img-responsive"}
 
 
