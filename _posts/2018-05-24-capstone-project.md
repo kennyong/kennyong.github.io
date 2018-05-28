@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Trading Cryptocurrencies with Time Series and Prophet
 tags: [#crypto]
-date-string: May 24, 2018
+date-string: May 8, 2018
 ---
 
 Disclaimer:
