@@ -201,7 +201,3 @@ plt.show()
 ```
 
 ![crypto-price-image](/images/ta/output_10_0.png){:class="img-responsive"}
-
-
-![crypto-price-image](/images/ta/output_10_1.png){:class="img-responsive"}
-
